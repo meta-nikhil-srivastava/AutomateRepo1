@@ -23,7 +23,8 @@ public with sharing class ClassToDel {
         system.debug('C1');
         system.debug('C2'); 
         system.debug('c3'); 
-        system.debug('commit by Git User');     
+        system.debug('commit by Git User');   
+        system.debug('commit1 by Git User');  
         } 
         
         public static void M3U2(){  
