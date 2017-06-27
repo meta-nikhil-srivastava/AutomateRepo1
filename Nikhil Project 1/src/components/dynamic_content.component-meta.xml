@@ -3,9 +3,4 @@
     <apiVersion>38.0</apiVersion>
     <description>Clone of main component  for dynamic HTTP server</description>
     <label>dynamic_content</label>
-    <packageVersions>
-        <majorNumber>1</majorNumber>
-        <minorNumber>7</minorNumber>
-        <namespace>sf_com_apps</namespace>
-    </packageVersions>
 </ApexComponent>
