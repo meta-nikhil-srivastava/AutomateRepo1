@@ -1,0 +1,22 @@
+<apex:page sidebar="false" title="New Account" showHeader="false" standardStylesheets="false" applyHtmlTag="false" Controller="NewAccountCtrl">
+    <html>
+        <head>
+            <title>
+                New Account
+            </title>
+        </head>
+        <body>
+            <div align ='center' >
+                <form>
+                    <b>New Account Creation</b><br /><br />
+               		    Name : <input type = 'text' id= 'name' /><br /><br />
+               		    Account Number :  <input type = 'text' id= 'accountNo' /><br /><br />
+                    <input type="submit" value="Submit" onclick = "createNewAcc"/>
+                </form>
+                
+            </div>
+            
+        </body>
+    </html>
+    
+</apex:page>
